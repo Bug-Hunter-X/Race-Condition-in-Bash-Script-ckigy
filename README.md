@@ -1,0 +1,1 @@
+This repository demonstrates a race condition bug in a bash script. Two processes attempt to write to files concurrently, resulting in unpredictable output. The solution showcases a method to address this race condition using synchronization primitives.
